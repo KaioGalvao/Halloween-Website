@@ -1,5 +1,4 @@
 # Página de Halloween Responsiva 🎃
-## [Feito assistindo ao vídeo](https://youtu.be/lgo1CEPZoxg)
 ### Página de Halloween Responsiva 🎃
 
 - Website reponsivo de Halloween usando HTML, CSS & JavaScript.
